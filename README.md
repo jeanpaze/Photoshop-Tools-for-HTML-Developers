@@ -48,9 +48,7 @@ Installation
 3. File -> Scripts -> Browse.
 4. Locate the script (.jsx file from downloaded zip) and open it.
 
-<b>keyboard shortcut</b>:<br>
-
-You can make a keyboard shortcut to run automatically. Here's how:
+<b>Keyboard shortcut.</b> You can make a keyboard shortcut to run automatically. Here's how:<br>
 
 1. Choose Edit > Keyboard Shortcuts.
 2. Highlight "Export Layers to HTML" under File > Scripts.
