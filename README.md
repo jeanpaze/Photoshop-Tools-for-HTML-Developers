@@ -9,11 +9,13 @@ Designed for HTML developers, this is a bundle of Photoshop scripts that make yo
 * Allows you to export layers in your document as individual files and generate a css file with positions of each image.
 * Layer content will not crop according to document edges. May result in negative position.
 
+
 <b>Export Text Lines to HTML</b>
 
 * This script will split each line of your text layer and export them. When finished, will generate a css file with positions of each layer.
 * Layer content will not crop according to document edges. May result in negative position.
 * Known limitations: Underline and strikethrough doesn't work. New lines must be specified with "enter" key or "shift + enter".
+
 
 <b>Export Sliced Layers to HTML</b>
 
@@ -39,7 +41,6 @@ Installation
     * Mac: `/Applications/Adobe Photoshop [VERSION]/Presets/Scripts/`
 3. Open/Reopen Photoshop.
 
-
 <b>Option 2</b>:
 
 1. [Download as zip](https://github.com/jeanpaze/Photoshop-Tools-for-HTML-Developers/archive/master.zip).<br>
@@ -47,7 +48,7 @@ Installation
 3. File -> Scripts -> Browse.
 4. Locate the script (.jsx file from downloaded zip) and open it.
 
-
+<b>keyboard shortcut</b>:<br>
 You can make a keyboard shortcut to run automatically. Here's how:
 
 1. Choose Edit > Keyboard Shortcuts.
