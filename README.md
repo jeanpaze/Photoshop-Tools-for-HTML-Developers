@@ -30,8 +30,9 @@ At the end of script, the .css file will open with your default program.
 Installation
 -----
 
-Option 1 (recommended):
-1. [Download as zip](https://github.com/jeanpaze/Photoshop-Tools-for-HTML-Developers/archive/master.zip).
+<b>Option 1</b> (recommended):
+
+1. [Download as zip](https://github.com/jeanpaze/Photoshop-Tools-for-HTML-Developers/archive/master.zip).<br>
 2. Copy Scripts (.jsx) into Photoshop Scripts folder:
     * Windows (32 bit): `C:\Program Files (x86)\Adobe Photoshop [VERSION]\Presets\Scripts\`
     * Windows (64 bit): `C:\Program Files\Adobe Photoshop [VERSION]\Presets\Scripts\`
@@ -39,8 +40,9 @@ Option 1 (recommended):
 3. Open/Reopen Photoshop.
 
 
-Option 2:
-1. [Download as zip](https://github.com/jeanpaze/Photoshop-Tools-for-HTML-Developers/archive/master.zip).
+<b>Option 2</b>:
+
+1. [Download as zip](https://github.com/jeanpaze/Photoshop-Tools-for-HTML-Developers/archive/master.zip).<br>
 2. Open/Reopen Photoshop.
 3. File -> Scripts -> Browse.
 4. Locate the script (.jsx file from downloaded zip) and open it.
