@@ -49,6 +49,7 @@ Installation
 4. Locate the script (.jsx file from downloaded zip) and open it.
 
 <b>keyboard shortcut</b>:<br>
+
 You can make a keyboard shortcut to run automatically. Here's how:
 
 1. Choose Edit > Keyboard Shortcuts.
